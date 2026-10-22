@@ -1,0 +1,25 @@
+version = 1
+
+[[annotations]]
+path = [
+    "mechanical/**",
+    "distribution-panel/**",
+    "control-panel/**",
+    "docs/**",
+    "bom.csv",
+    "README.md",
+]
+SPDX-FileCopyrightText = "2026 Thijmen G. Maus"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]]
+path = ["firmware/**"]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Thijmen G. Maus"
+SPDX-License-Identifier = "PolyForm-Noncommercial-1.0.0"
+
+[[annotations]]
+path = "docs/stickers/ISO_7010_*.svg"
+precedence = "override"
+SPDX-FileCopyrightText = "Respective rights holders, via Wikimedia Commons"
+SPDX-License-Identifier = "LicenseRef-ISO-7010"

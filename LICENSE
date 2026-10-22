@@ -1,0 +1,26 @@
+Walnut Huller & Sorter
+Copyright (c) 2026 Thijmen G. Maus
+
+This repository is source-available, not open source. Commercial use is not
+permitted except as stated under "Additional permission". Different parts are
+licensed as follows:
+
+  mechanical/, distribution-panel/,
+  control-panel/, docs/, bom.csv
+      CC BY-NC-SA 4.0                 -> LICENSES/CC-BY-NC-SA-4.0.txt
+
+  firmware/
+      PolyForm Noncommercial 1.0.0    -> LICENSES/PolyForm-Noncommercial-1.0.0.txt
+
+Exception: ISO 7010 safety pictograms in docs/stickers/ are not covered by
+these licenses and remain the property of their respective rights holders.
+
+Additional permission: in addition to the licenses above, the copyright holder
+grants permission to build and operate machines based on this repository for
+use in the builder's own business, including selling the products processed
+with such a machine. This permission does not extend to selling machines,
+kits, parts, firmware or design files.
+
+Safety: this design is shared without any conformity assessment (such as CE,
+UKCA, FCC or UL). Whoever builds and puts a machine into service is responsible
+for its safety and legal compliance and cannot hold the author accountable.

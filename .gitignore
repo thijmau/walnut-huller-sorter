@@ -1,0 +1,30 @@
+# KiCad
+*-backups/
+fp-info-cache
+*.kicad_prl
+_autosave-*
+*.lck
+# PlatformIO
+.pio/
+.vscode/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# OS
+.DS_Store
+Thumbs.db
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+# JetBrains
+.idea/
+# Reference papers (copyrighted, local only)
+references/

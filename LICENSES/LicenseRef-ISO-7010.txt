@@ -1,0 +1,5 @@
+ISO 7010 safety pictograms in docs/stickers/ are not covered by the licenses of
+this repository and remain the property of their respective rights holders.
+
+The files were downloaded from Wikimedia Commons. The license of each file is
+stated on its Commons file page; see docs/stickers/README.md for the links.
