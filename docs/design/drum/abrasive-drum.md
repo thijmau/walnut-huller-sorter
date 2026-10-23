@@ -25,6 +25,8 @@ development decisions. See the table below:
 | **Rotation**      | Allow rotation, while allowing a water spray pipe through the center                     |
 | **Flow**          | Walnuts should move towards the exit on their own while tumbling                         |
 | **Volume**        | Require enough space for walnuts to tumble, but too much and they don't abrade eachother |
+| **Abrasion** | Holes assisting the abrasion cannot catch walnuts, but too small and they don't abrade |
+
 
 ## Summary
 
@@ -77,6 +79,7 @@ too small to conclude and might require a manual study.
 - **Flow:** Angle the drum slightly, e.g. 5-7 degrees, to find a good balance
   between abrasion and travel speed. Too high and it clogs, too low, and they
   don't move towards the exit.
+- **Abrasion:** 8mm perforation holes spaced diagonally across the entire tube, this is subject to change based on experiments. 
 
 <sub>An alternative is to just print the tube directly upright, but due to
 Z-layer seams/weaknesses and porous properties of FDM this is definitely not the
