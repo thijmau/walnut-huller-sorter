@@ -10,6 +10,8 @@ This machine is a small walnut huller and sorter, featuring a rotating abrasive
 drum, an air sorter and a dump flap. It is portable due to the size and caster
 wheels, making it easily stored in a shed.
 
+![Render of the machine in its current state](./docs/images/abrasive-drum-render.png)
+
 > [!WARNING]
 > **Not certified!** This machine does not possess any CE, UKCA, FC or UL
 assessment, nor is it planned as of now. Whoever builds this machine is its
@@ -55,7 +57,8 @@ engineering skills.
 [root] (walnut-huller-sorter/)
 ├── mechanical             # Contains parts and assembly files
 │   ├── cad                # Fusion 360 (.f3d, .f3z) and STEP
-│   └── stl                # Print files
+│   ├── cad                # Fabrication files (e.g. cutting sheetmetal)
+│   └── stl                # Print files for slicing
 ├── distribution-panel     # Schematic for mains wiring
 ├── control-panel          # Schematic for machine control (.gbr, .drl, etc)
 ├── firmware               # Firmware source code for the MCU
