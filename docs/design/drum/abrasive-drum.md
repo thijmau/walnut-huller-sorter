@@ -85,25 +85,12 @@ too small to conclude and might require a manual study.
 Z-layer seams/weaknesses and porous properties of FDM this is definitely not the
 best option and highly discouraged.</sub>
 
-[^ercisli]: Ercisli, S., Sayinci, B., Kara, M., Yildiz, C., & Ozturk, I. (2012).
-Determination of size and shape features of walnut (*Juglans regia* L.)
-cultivars using image processing. *Scientia Horticulturae*, *133*, 47–55.
-[https://doi.org/10.1016/j.scienta.2011.10.014](https://doi.org/10.1016/j.scienta.2011.10.014)
+[^ercisli]: Ercisli, S., Sayinci, B., Kara, M., Yildiz, C., & Ozturk, I. (2012). Determination of size and shape features of walnut (*Juglans regia* L.) cultivars using image processing. *Scientia Horticulturae*, *133*, 47–55. [https://doi.org/10.1016/j.scienta.2011.10.014](https://doi.org/10.1016/j.scienta.2011.10.014)
 
-[^gharibzahedi]: S.M.T. Gharibzahedi, S.M. Mousavi, M. Hamedi and F. Khodaiyan,
-"Engineering characterization of Persian walnut and its kernel (*Juglans regia*
-L.) for obtaining high quality produce,"
-*Quality Assurance and Safety of Crops & Foods*,
-vol. 5, no. 2, pp. 145–156, 2013. doi:10.3920/QAS2011.0110. Table 1, p. 147.
+[^gharibzahedi]: S.M.T. Gharibzahedi, S.M. Mousavi, M. Hamedi and F. Khodaiyan, "Engineering characterization of Persian walnut and its kernel (*Juglans regia* L.) for obtaining high quality produce," *Quality Assurance and Safety of Crops & Foods*, vol. 5, no. 2, pp. 145–156, 2013. doi:10.3920/QAS2011.0110. Table 1, p. 147.
 
-[^nutmec]:
-Nutmec, [Walnut Huller Machines](https://nutmec.com/product-category/processing-machines/for-nuts/hulling/walnut-huller-machines/).
-Product catalog illustrating commercially available walnut-hulling machinery.
+[^nutmec]: Nutmec, [Walnut Huller Machines](https://nutmec.com/product-category/processing-machines/for-nuts/hulling/walnut-huller-machines/). Product catalog illustrating commercially available walnut-hulling machinery.
 
-[^ulbrich]:
-Ulbrich, [Why Stainless? Its Benefits and Unique Characteristics](https://www.ulbrich.com/blog/why-stainless-its-benefits-and-unique-characteristics/).
-Overview of the properties and benefits of stainless steel.
+[^ulbrich]: Ulbrich, [Why Stainless? Its Benefits and Unique Characteristics](https://www.ulbrich.com/blog/why-stainless-its-benefits-and-unique-characteristics/). Overview of the properties and benefits of stainless steel.
 
-[^vdberk]: Van den Berk
-Nurseries, [Juglans regia – Common walnut](https://www.vdberk.com/trees/juglans-regia/)
-Product description and Specifications table ("Fruits").
+[^vdberk]: Van den Berk Nurseries, [Juglans regia – Common walnut](https://www.vdberk.com/trees/juglans-regia/) Product description and Specifications table ("Fruits").
