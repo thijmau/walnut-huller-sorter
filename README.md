@@ -57,7 +57,7 @@ engineering skills.
 [root] (walnut-huller-sorter/)
 ├── mechanical             # Contains parts and assembly files
 │   ├── cad                # Fusion 360 (.f3d, .f3z) and STEP
-│   ├── cad                # Fabrication files (e.g. cutting sheetmetal)
+│   ├── fabrication        # Fabrication files (e.g. cutting sheetmetal)
 │   └── stl                # Print files for slicing
 ├── distribution-panel     # Schematic for mains wiring
 ├── control-panel          # Schematic for machine control (.gbr, .drl, etc)
