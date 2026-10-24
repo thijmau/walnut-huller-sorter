@@ -10,7 +10,7 @@ This machine is a small walnut huller and sorter, featuring a rotating abrasive
 drum, an air sorter and a dump flap. It is portable due to the size and caster
 wheels, making it easily stored in a shed.
 
-![Render of the machine in its current state](./docs/images/abrasive-drum-render.png)
+![Render of the machine in its current state](docs/images/machine-render.png)
 
 > [!WARNING]
 > **Not certified!** This machine does not possess any CE, UKCA, FC or UL
@@ -36,9 +36,9 @@ engineering skills.
 ## How it works
 
 1. **Automated hulling:** The walnuts continuously tumble in a perforated
-   stainless steel drum and sprayed with water. This combination causes the husk
-   to abrade and thus allows the hulled walnut to pass through the holes to get
-   to the sorting system.
+   stainless steel drum and are sprayed with water. This combination causes the
+   husk to abrade and thus allows the hulled walnut to pass through the holes to
+   get to the sorting system.
 2. **Air sorting:** After being hulled, the nuts drop into a vertical pipe
    through a sidepipe. This vertical pipe has air rising through it as a high
    speed, causing waste and fragments to get sucked out, while healthy nuts fall
@@ -57,7 +57,7 @@ engineering skills.
 [root] (walnut-huller-sorter/)
 ├── mechanical             # Contains parts and assembly files
 │   ├── cad                # Fusion 360 (.f3d, .f3z) and STEP
-│   ├── fabrication        # Fabrication files (e.g. cutting sheetmetal)
+│   ├── fabrication        # Fabrication files (e.g. cutting sheet metal)
 │   └── stl                # Print files for slicing
 ├── distribution-panel     # Schematic for mains wiring
 ├── control-panel          # Schematic for machine control (.gbr, .drl, etc)
