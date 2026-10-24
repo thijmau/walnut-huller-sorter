@@ -1,4 +1,6 @@
-# Abrasive Drum Design
+# Abrasive Drum Design Document
+
+![Render of the part](../../images/parts/abrasive-drum-render.png)
 
 ## Problem
 
@@ -20,13 +22,12 @@ development decisions. See the table below:
 | Subject           | Constraint                                                                               |
 |-------------------|------------------------------------------------------------------------------------------|
 | **Mounting**      | An easy way to connect and remove the drum to caps for maintenance                       |
-| **Material**      | Resistance to water, rain, rust and corrosion                                            |
+| **Material**      | Resistance to UV, water, rust and corrosion                                              |
 | **Manufacturing** | Relatively simple to manufacture (e.g. without requiring 5-axis CNC machines)            |
 | **Rotation**      | Allow rotation, while allowing a water spray pipe through the center                     |
 | **Flow**          | Walnuts should move towards the exit on their own while tumbling                         |
 | **Volume**        | Require enough space for walnuts to tumble, but too much and they don't abrade eachother |
-| **Abrasion** | Holes assisting the abrasion cannot catch walnuts, but too small and they don't abrade |
-
+| **Abrasion**      | Holes assisting the abrasion cannot catch walnuts, but too small and they don't abrade   |
 
 ## Summary
 
@@ -79,11 +80,14 @@ too small to conclude and might require a manual study.
 - **Flow:** Angle the drum slightly, e.g. 5-7 degrees, to find a good balance
   between abrasion and travel speed. Too high and it clogs, too low, and they
   don't move towards the exit.
-- **Abrasion:** 8mm perforation holes spaced diagonally across the entire tube, this is subject to change based on experiments. 
+- **Abrasion:** 8mm perforation holes spaced diagonally across the entire tube,
+  this is subject to change based on experiments.
 
 <sub>An alternative is to just print the tube directly upright, but due to
 Z-layer seams/weaknesses and porous properties of FDM this is definitely not the
 best option and highly discouraged.</sub>
+
+<!-- @formatter:off -->
 
 [^ercisli]: Ercisli, S., Sayinci, B., Kara, M., Yildiz, C., & Ozturk, I. (2012). Determination of size and shape features of walnut (*Juglans regia* L.) cultivars using image processing. *Scientia Horticulturae*, *133*, 47–55. [https://doi.org/10.1016/j.scienta.2011.10.014](https://doi.org/10.1016/j.scienta.2011.10.014)
 
