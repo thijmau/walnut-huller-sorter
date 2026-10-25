@@ -23,21 +23,21 @@ a large pulley, which should be easily swappable.
 
 Having the same shared properties of
 the [endcaps summary](README.md#summary), while being modified with a large
-concentric hole of $\varnothing 145\text{mm}$ in diameter. This allows for more
+concentric hole of $\varnothing 145\text{ mm}$ in diameter. This allows for more
 margin to prevent scuffing the hopper outlet. The endcap consists of two parts,
 which are bolted together to allow for easy serviceability, and allow for
 printing without supports.
 
 ## Decisions
 
-- **Entry Hole Size:** Having a total margin of $5\text{mm}$ on the diameter,
-  resulting in a hole size of $145\text{mm}$ in which the hopper output should
+- **Entry Hole Size:** Having a total margin of $5\text{ mm}$ on the diameter,
+  resulting in a hole size of $145\text{ mm}$ in which the hopper output should
   be concentrically aligned.
 - **Pulley Size:** The pulley size should be no more
-  than $\varnothing240\text{mm}$ in diameter, giving $\approx 5\text{mm}$ margin
+  than $\varnothing240\text{ mm}$ in diameter, giving $\approx 5\text{ mm}$ margin
   on either side of the pulley for the belt. Given that the tooth count is
   variable, the pulley outer diameter should be
-  between $\varnothing160\text{-}240\text{mm}$
+  between $\varnothing160\text{-}240\text{ mm}$
 - **Changeability:** The pulley is mounted to the flange mount using a different
   set of 6 holes, which are offset between the main mounting holes to the drum
   flange. This allows for easy swapping of the pulley in case of wear.

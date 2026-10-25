@@ -31,13 +31,13 @@ the back.
 
 ## Decisions
 
-- **Size:** Given a water sprayer diameter of $\varnothing16\text{mm}$, this
+- **Size:** Given a water sprayer diameter of $\varnothing16\text{ mm}$, this
   should allow husks to not get blocked all sides. Using a maximum diameter
-  of $80\text{mm}$ for the fruits[^vdberk], this results in an outer diameter
-  of:
+  of $60\text{ mm}$ for the fruits[^treesandshrubs], this results in an inner
+  diameter of:
   $$
-  D_\text{outer} \geq 2\left (80\text{ mm} + \frac{16\text{ mm}}{2}\right)
-  = 176\text{ mm}
+  D_\text{outer} \geq 2\left (60\text{ mm} + \frac{16\text{ mm}}{2}\right)
+  = 136\text{ mm}
   $$
 - **Buffer:** The buffer should provide additional room for the husks to stay
   while the hopper is unloading. This is done by basing the tangential
@@ -49,9 +49,9 @@ the back.
   buffer which can be mounted using 4 countersunk bolts to the hopper output.
   This allows for easier printing, because the shape would be too complex to
   print in one go.
-- **Plumbing:** A $\varnothing20\text{mm}$ hole in the center of the output to
+- **Plumbing:** A $\varnothing20\text{ mm}$ hole in the center of the output to
   provide margin for the tube to pass through.
 
 <!-- @formatter:off -->
 
-[^vdberk]: Van den Berk Nurseries, [Juglans regia – Common walnut](https://www.vdberk.com/trees/juglans-regia/) Product description and Specifications table ("Fruits").
+[^treesandshrubs]: [“Juglans regia”](https://www.treesandshrubsonline.org/articles/juglans/juglans-regia/), *Trees and Shrubs Online*.

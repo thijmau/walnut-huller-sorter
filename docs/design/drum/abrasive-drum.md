@@ -32,25 +32,25 @@ development decisions. See the table below:
 ## Summary
 
 The walnuts will abrade in a perforated stainless steel tube
-of $\varnothing 200\,\text{mm} \times 350\,\text{mm}$. Using a wall size
-of $1.5\text{mm}$, this gives it an inner volume of 10.7 liters.
+of $\varnothing 200\,\text{ mm} \times 350\,\text{ mm}$. Using a wall size
+of $1.5\text{ mm}$, this gives it an inner volume of 10.7 liters.
 
 $$
 \begin{aligned}
-d_\text{o} &= 200\,\text{mm} \\
-d_\text{i} &= d_\text{o} - 2 \times 1.5\,\text{mm} = 197\,\text{mm} \\
-V_\text{inner} &= \frac{\pi}{4} d_\text{i}^2 \times 350\,\text{mm} \approx 10.67\,\text{L}
+d_\text{o} &= 200\,\text{ mm} \\
+d_\text{i} &= d_\text{o} - 2 \times 1.5\,\text{ mm} = 197\,\text{ mm} \\
+V_\text{inner} &= \frac{\pi}{4} d_\text{i}^2 \times 350\,\text{ mm} \approx 10.67\,\text{L}
 \end{aligned}
 $$
 
 The diameter is sized so
 that a single cross-section of the tube holds $\approx 3\text{–}4$ walnuts with
 room to tumble. Based on them having a geometric mean diameter
-between $60\text{-}80\text{mm}$[^vdberk].
+between $60\text{-}80\text{ mm}$[^vdberk].
 
-Dehulled in-shell walnuts measure $35.7\text{-}45.9\text{mm}$ in geometric mean
+Dehulled in-shell walnuts measure $35.7\text{-}45.9\text{ mm}$ in geometric mean
 diameter across ten cultivators[^ercisli]. Another study
-measures $26.99\text{-}38.03\text{mm}$ as geometric mean
+measures $26.99\text{-}38.03\text{ mm}$ as geometric mean
 diameter[^gharibzahedi], which seems to align more with the walnuts from the
 source tree this drum is designed for. This allows for enough tumbling room
 for $\approx 6\text{-}7$ walnuts in the same cross-section when they are
@@ -96,5 +96,3 @@ best option and highly discouraged.</sub>
 [^nutmec]: Nutmec, [Walnut Huller Machines](https://nutmec.com/product-category/processing-machines/for-nuts/hulling/walnut-huller-machines/). Product catalog illustrating commercially available walnut-hulling machinery.
 
 [^ulbrich]: Ulbrich, [Why Stainless? Its Benefits and Unique Characteristics](https://www.ulbrich.com/blog/why-stainless-its-benefits-and-unique-characteristics/). Overview of the properties and benefits of stainless steel.
-
-[^vdberk]: Van den Berk Nurseries, [Juglans regia – Common walnut](https://www.vdberk.com/trees/juglans-regia/) Product description and Specifications table ("Fruits").

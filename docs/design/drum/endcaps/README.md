@@ -29,18 +29,18 @@ parameters.
 
 ## Constraints
 
-| Subject       | Constraint                                                                                          |
-|---------------|-----------------------------------------------------------------------------------------------------|
-| Mounting      | Mounting pattern of 6 holes needs to match the drum flange PCD[^wiki-bolt-circle] of $225\text{mm}$ |
-| Material      | Resistant to UV, rain, rust and corrosion                                                           |
-| Tolerance     | Account for sheet metal warping or printing inaccuracies                                            |
+| Subject   | Constraint                                                                                           |
+|-----------|------------------------------------------------------------------------------------------------------|
+| Mounting  | Mounting pattern of 6 holes needs to match the drum flange PCD[^wiki-bolt-circle] of $225\text{ mm}$ |
+| Material  | Resistant to UV, rain, rust and corrosion                                                            |
+| Tolerance | Account for sheet metal warping or printing inaccuracies                                             |
 
 ## Summary
 
-A circular endcap being $\varnothing250 \text{mm}$ in diameter,
-with $0.4\text{mm}$ of expansion tolerance for the sheet metal flange. Bolted to
-the drum flange using 6 countersunk holes to provide a seamless look and allow
-for easy maintenance.
+A circular endcap being $\varnothing250 \text{ mm}$ in diameter,
+with $0.4\text{ mm}$ of expansion tolerance for the sheet metal flange. Bolted
+to the drum flange using 6 countersunk holes to provide a seamless look and
+allow for easy maintenance.
 
 ## Decisions
 

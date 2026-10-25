@@ -9,12 +9,12 @@ not yet free of their husk. A simple way to prevent this is by adding holes in
 the endcap based on the median size of the walnut. For example, as described in
 the [drum design document](../abrasive-drum.md):
 
-> _"...Another study measures $26.99\text{-}38.03\text{mm}$ as geometric mean
+> _"...Another study measures $26.99\text{-}38.03\text{ mm}$ as geometric mean
 diameter[^gharibzahedi], which seems to align more with the walnuts from the
 source tree this drum is designed for..."_
 
 Based on the walnuts from the actual tree this machine is designed for, the
-initial design diameter is fixed at $35\text{mm}$, this is subject to change as
+initial design diameter is fixed at $35\text{ mm}$, this is subject to change as
 the sample size from the source tree increase and are more thoroughly studied.
 
 ## Constraints
@@ -28,12 +28,12 @@ the sample size from the source tree increase and are more thoroughly studied.
 
 Having the same shared properties of
 the [endcaps summary](README.md#summary), while being modified with 8
-circular holes of $\varnothing 35 \text{mm}$. This gives the walnut 8 chances
+circular holes of $\varnothing 35 \text{ mm}$. This gives the walnut 8 chances
 per full rotation to exit the drum while being tumbled.
 
 ## Decisions
 
-- **Hole Count:** 8 holes of $\varnothing35\text{mm}$ in diameter to provide a
+- **Hole Count:** 8 holes of $\varnothing35\text{ mm}$ in diameter to provide a
   nice balance between having almost no chance to exit in a full rotation
   (e.g. $\approx 4$) and thin wall spacing between the exits (e.g. $\approx12$).
 - **Guidance:** A steeply angled chamfer in the inside of each hole to bring the

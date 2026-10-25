@@ -1,4 +1,4 @@
-# Exit Overflow Catcher Design Document
+# Overflow Catcher Design Document
 
 ![Render of the part](../../images/parts/abrasive-drum-exit-overflow-catcher.png)
 
@@ -21,7 +21,7 @@ placed that catches nuts falling at the top and guides them to the exit.
 ## Summary
 
 A circular cap, fixed in position to the frame with a small distance to the drum
-to allow for wobble. It is connected to a custom bracket using the 4 holes on
+to allow for wobble. It is connected to a custom bracket using the 3 holes on
 the back wall. It is large enough to encapsulate the outer rotation of the exit
 holes, so all nuts falling in roll down towards the main guide rail.
 
@@ -29,8 +29,8 @@ holes, so all nuts falling in roll down towards the main guide rail.
 
 - **Size:** The inner diameter is based on the inner diameter of the abrasive
   drum, this makes it impossible for it to block.
-- **Mounting:** 4 countersunk holes in the backplate to allow for mounting to a
-  custom bracket
-- **Bolts:** A wall thickness of $3\text{mm}$ on the entire perimeter provides
+- **Mounting:** 3 holes in the backplate to allow for mounting the catching drum
+  to a custom bracket on the frame.
+- **Bolts:** A wall thickness of $3\text{ mm}$ on the entire perimeter provides
   enough strength to absorb deflection and the falling nuts, as well as enough
   room for the endstop roller wheel bolts. 

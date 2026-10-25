@@ -33,6 +33,12 @@ same principles used commercially or in science. The nuts are for our own use;
 the machine is meant to save us the work, and building it is a way to sharpen my
 engineering skills.
 
+**This machine is primarily designed for the _Juglans Regia_, which fall off and
+split open when ripe[^wiki-juglans-regia]. Other variants, such as the _Juglans
+Nigra_ have a husk that has a different structure and growth
+stage[^wiki-juglans-nigra], causing it to be much harder to remove. Trying to
+support other variants might require sizing up all machine parts accordingly.**
+
 ## How it works
 
 1. **Automated hulling:** The walnuts continuously tumble in a perforated
@@ -41,15 +47,17 @@ engineering skills.
    get to the sorting system.
 2. **Air sorting:** After being hulled, the nuts drop into a vertical pipe
    through a sidepipe. This vertical pipe has air rising through it as a high
-   speed, causing waste and fragments to get sucked out, while healthy nuts fall
-   straight down into a collection sack or bin.
+   speed, causing waste and fragments to get sucked out into a waste box, while
+   healthy nuts fall straight down into a collection sack or bin.
 3. **Periodic/controlled dumping:** At a configured interval or when the button
    is pressed, the machine stops and the dump flap opens to let the waste fall
-   into a different sack or bin below the hopper.
+   into a different sack or bin below the hopper (which is connected to the
+   waste box).
 4. **Easy composting:** During the hulling process, the waste and pulp falls
-   down into a designated box. As well as the separate sack/bin for fragments as
-   described in step 3. This makes it convenient to handle the waste products
-   created by using this machine.
+   down into a designated box because of the water. The water is then filtered
+   and recirculated back to the sprayer. This makes it convenient to handle the
+   waste products created while using this machine. The waste from controlled
+   dumping can also be composted, but those are mostly fragments or small waste.
 
 ## Structure
 
@@ -88,3 +96,9 @@ This project is source-available, not open source. See the full
 > [!NOTE]
 >  **Building one for your own use or business is allowed; selling machines,
 kits, parts or files is not.**
+
+[^wiki-juglans-regia]: [“Juglans regia”](https://en.wikipedia.org/wiki/Juglans_regia),
+*Wikipedia*.
+
+[^wiki-juglans-nigra]: [“Juglans nigra”](https://en.wikipedia.org/wiki/Juglans_nigra),
+*Wikipedia*.
