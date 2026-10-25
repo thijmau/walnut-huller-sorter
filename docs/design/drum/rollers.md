@@ -28,7 +28,7 @@ Four symmetric pillars, angled at $\angle30^\circ$ from the vertical axes, based
 on the outer diameter of the flange of $\approx \varnothing 250 \text{ mm}$.
 While having two endstop rollers (one on each side of the lower pillar) to
 prevent the drum from sliding off while its rolling. The wheels
-are $\varnothing40\text{ mm}\times14\text{ mm}$, with a max load of $30\text{kg}$
+are $\varnothing40\text{ mm}\times14\text{ mm}$[^interwheel-40x14], with a max load of $30\text{kg}$
 per wheel, which provides more than enough margin.
 
 ## Decisions
@@ -61,3 +61,5 @@ per wheel, which provides more than enough margin.
 <!-- @formatter:off -->
 
 [^bds-bearing-guide]: [“Bearing Seals Explained: Types, Functions, and Selection Guide”](https://www.bdsbearing.com/blog/guide-to-bearings-seals-types-functions-and-applications), BDS.
+
+[^interwheel-40x14]: [“Guide Roller 40x14 mm polyurethane 30 kg”](https://www.interwheel.eu/en/guide-roller-40x14-mm-polyurethane-30-kg.html), Interwheel.

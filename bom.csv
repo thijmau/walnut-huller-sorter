@@ -1,1 +1,2 @@
 ref,qty,description,spec,manufacturer,part_number,supplier,supplier_part_number,unit_price_eur,url,notes
+ROLLER-40X14,6,Guide roller,Ø40x14 mm polyurethane 92 Shore A 6200 2RS 30 kg load,Interwheel,193.214.N,Interwheel,193.214.N,7.64,https://www.interwheel.eu/en/guide-roller-40x14-mm-polyurethane-30-kg.html,4 main + 2 endstop rollers; mount with M8 bolt (print or source adapter for 10->8 bore) see docs/design/drum/rollers.md
