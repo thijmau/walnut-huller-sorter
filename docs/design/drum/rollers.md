@@ -28,7 +28,8 @@ Four symmetric pillars, angled at $\angle30^\circ$ from the vertical axes, based
 on the outer diameter of the flange of $\approx \varnothing 250 \text{ mm}$.
 While having two endstop rollers (one on each side of the lower pillar) to
 prevent the drum from sliding off while its rolling. The wheels
-are $\varnothing40\text{ mm}\times14\text{ mm}$[^interwheel-40x14], with a max load of $30\text{kg}$
+are $\varnothing40\text{ mm}\times14\text{ mm}$[^interwheel-40x14], with a max
+load of $30\text{kg}$
 per wheel, which provides more than enough margin.
 
 ## Decisions
@@ -52,9 +53,8 @@ per wheel, which provides more than enough margin.
   the horizontal axis. If this proves to be too little to overcome the guiding
   hump on the [exit endcap](./endcaps/exit-endcap.md), then this angle can be
   increased accordingly.
-- **Mountability:** Two deeply recessed holes in each pillar, which allows the
-  pillar to be mounted to its target surface using a nut. This allows for water
-  to be trapped there, but drainage holes are also an option.
+- **Mountability:** A tab on either side of the structure for easily mounting
+  them directly to the target surface using bolts.
 - **Wear:** The wheels are supported by 2RS[^bds-bearing-guide] graded bearings,
   which minimizes outdoor damage to the rolling abilities.
 
